@@ -1,0 +1,21 @@
+/* PHASE 4: Footer */
+
+.footer-style {
+  color: #aaa;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+
+.copyright {
+  padding: 20px;
+}
+
+.footer-nav {
+  display: flex;
+  padding: 10px;
+}
+
+.footer-nav li {
+  padding: 10px;
+}
